@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="QRCode3" size="0.718000 0.720000" />
+    <ImageTarget name="QRCode2" size="0.370000 0.370000" />
+    <ImageTarget name="QRcode" size="0.249000 0.249000" />
+  </Tracking>
+</QCARConfig>
